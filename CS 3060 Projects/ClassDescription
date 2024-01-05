@@ -1,0 +1,36 @@
+Course Overview: We will explore multiple (three or more) programming languages. For each language
+studied, we will investigate on few fundamental questions:
+  1. What is the programming model (e.g., OO, functional, procedural, or hybrid)?
+  2. What is the typing model (e.g., static, dynamic, strong, or weak)?
+  3. What are the decision constructs & core data structures?
+  4. What makes this language unique? Its strength and weakness.
+
+We will cover multiple programming concepts, including Static Typing, Dynamic Typing, Strong type, Weak
+type, Polymorphism, Multiple Inheritance, Mixing, Higher Order Functions, Purity (Side Effect Free),
+Mutable state, Immutability and concurrency, Currying, Lazy Evaluation, Recursion, and Garbage
+Collection.
+
+Languages to Cover: Ruby, Scala, Haskell, and more.
+
+Course Modules: Each of the above three languages will be covered (almost) as an independent module.
+Each module will typically run for 4 weeks (i.e., 8 classes) or little less. Typically, in each module, week 1’s
+classes will cover the basics (corresponding Day 1 material of the relevant chapter in the textbook), then (in
+week 2) we cover the intermediate level (corresponding Day 2 material in the textbook), and finally (in week
+3) the advanced level (corresponding Day 3 material in the textbook). In addition, over the remaining weeks
+(2 or so), we will discuss a few general concepts, which are not specific to a particular language. In summary,
+there are four modules (Ruby, Scala, Haskell, and General) in this course.
+
+Learning Outcome: Upon successful completion of the course you will be able to
+  1. Identify differences and similarities across programming languages
+  2. Describe the differences between different programming paradigms
+  3. Implement basic algorithms using different programming paradigms
+  4. Explain the strengths and weaknesses of different type systems
+  5. Explain the differences between program compilation and interpretation
+
+CS Student Outcomes addressed by this course:
+• CS 1 Analyze a complex computing problem and to apply principles of computing and other
+relevant disciplines to identify solutions
+• CS 2 Design, implement, and evaluate a computing-based solution to meet a given set of
+computing requirements in the context of the program's discipline
+• CS 6 Apply computer science theory and software development fundamentals to produce
+computing-based solutions
